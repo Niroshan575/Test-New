@@ -1,0 +1,50 @@
+{
+    "name": "NIROSHAN MD",
+    "description": "Advanced WhatsApp Bot with Multiple Features",
+    "keywords": [
+        "bot",
+        "whatsapp",
+        "whatsapp-bot",
+        "knightbot",
+        "multi-device"
+    ],
+    "repository": "https://github.com/Niroshan112/suda",
+    "stack": "container",
+    "env": {
+        "SESSION_ID": {
+            "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY0J0aWJrNDltSlVaZkRPR1BreXZkaW05cFZKN2VwLy9GbExGRytPK3MwUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMzh4LzltZ2M5ZUpKdGlIV3BhYmVCcHRhbWVucVM5QnVab1Mwc1g5ajhpND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4T1doU1M0V1l5M1pOVUNYMTBYU05ndjhoRGVoSlRTakRNbFlMOG9KcTI4PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4cm54N3VZVFI4VzkzNWE5ZnVETVFYRUYvd242V0o1SXFrWHlYWVBPd2hrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitMQy8yMEcvVkZmZ3JkWENkVmJuQktGT0hEcFo2U0dtTVJkbTJxbnJaWEE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJMdUoyVlZKOThtNEVvQlpYdkJPODBBdVZHRkpHTTV2TlVmaVVDUFZ2SHM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK01CY1VMQmVaK1g1WGNwaWFjaEJ6QktGVncvQjZGSHhoZWJaNnpET0MxWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSklrZnBOdXNOQnplMmwvM0RJWU9HSWh1Rm5VUlBWQjM0QnNSMDgyOE4wQT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlRmRDltQWFySTZzNmhMWmFNZXc4UG41OEFQOUFoaW5PZkZPRnlTZVp4VGk0WDNNbHU3dnl4WHVmMDhOTllRZDg4SlRXc3RRcFJpNktvdlBEaHNtMGp3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTEwLCJhZHZTZWNyZXRLZXkiOiJ5SG5WaEVrNkVGTERTcFl0Rm1Iem5RMXFDWk1tSzlySTE0R3lRdGI2d2pNPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6Ijk0NzE0MTg0NDQ2QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjgzRjFFNEEyOEMyRDBBNzk5MkU5MTkxNDIxOTE3MjExIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDEzOTc2ODh9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IjU3Z2dvNGpRUzM2X2NleW14VkxfdWciLCJwaG9uZUlkIjoiYjIwNjIxODEtMTRhNS00N2I4LTg3YzctMjc4Y2JkM2FhYTY5IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ilg3VTk1ZEQ1bFFHd3RKTHlBOUxrL05wRTl4bz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJYaFBRUUhhdi95WEJmcVlWckZGanZxMS9tOEE9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiOTZDUkRWMzYiLCJtZSI6eyJpZCI6Ijk0NzE0MTg0NDQ2Ojk0QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IsaIyb7OscmvyoUgIOGDp86xxpnPg8+DLi4uLi4uIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNLYlA1ajRRcUwydXZnWVlDQ0FBS0FBPSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJLWDR6NU5TVkk4RENPSy9Qblo3NDI0aExyTzE0eXVBdmZtMExrdVV1WVFZPSIsImFjY291bnRTaWduYXR1cmUiOiJoUmpJWWdkbk14MnRpM1RmM1U4Ukg0NTFETXpqT2E4aE5lTFVSSmRpeDRBQ3VNc1JFbE5aQVgweEdFTFlJYkRkWnFzdkJnZFYrbUFkRUJiaWgzY3JBdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoidHRDZDhHdGJUbTE1Q1JqOVdacDFUQXdmcnBqMy9BMkpKblVyUVFXRjhsUlJVQ2lMVmZsbVJTZjMwVDVDNjFHRXAzdktNTExKYnVRd3FHR1pNNmZKaHc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5NDcxNDE4NDQ0Njo5NEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJTbCtNK1RVbFNQQXdqaXZ6NTJlK051SVM2enRlTXJnTDM1dEM1TGxMbUVHIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQxMzk3Njg0LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUE1bSJ9",
+            "required": true
+        },
+        "OWNER_NUMBER": {
+            "description": "Your WhatsApp number (e.g., 94714184446)",
+            "required": false
+        },
+        "PREFIX": {
+            "description": "Prefix for bot commands",
+            "value": ".",
+            "required": false
+        }
+    },
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "basic"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
